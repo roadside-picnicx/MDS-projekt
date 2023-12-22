@@ -37,9 +37,6 @@ The server runs on localhost, so just type `127.0.0.1` into your browser and you
 ## Contributing
 Contributions are not welcome! If you have improvements or additional features you'd like to add, please don't submit a pull request. No one will work on this project anymore.
 
-## License
-This project is licensed under the GNU Public License. Feel free to use, modify, and distribute the code as needed.
-
 ## Acknowledgments
 Thanks to the NGINX team for providing a robust web server.
 
